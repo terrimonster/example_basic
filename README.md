@@ -1,7 +1,7 @@
-ex-basic
+example-basic
 ========
 
-This repository has just 5 basic commits on master by three different coders, providing a basic commit structure for learning exploring Git commands.
+This repository has just 5 basic commits on master by three different coders, providing a basic commit structure for learning exploring Git commands. These are my changes to the repository for class.
 
 ## Usage
 
